@@ -1,0 +1,17 @@
+User Stories:
+
+Users should see a grid of squares loaded from a file (Est. 4 hours) (Completed)
+Users should be able to press the arrow keys to move the Player around (Est. 2 hour) (Completed)
+The Player should pick up Emeralds by moving over top of them (Est. 30 minutes) (Completed)
+Users should be able to press the "U" and "D" keys to switch levels (Est. 30 minutes) (Completed)
+
+
+Hours:
+
+Estimated: 7 hours
+
+Adam Gastineau: 3
+Zachary Schafer: 4
+Armando Luja Salmeron: 4
+
+Actual: 11 hours

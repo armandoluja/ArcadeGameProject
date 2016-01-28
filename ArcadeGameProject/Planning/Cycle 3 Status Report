@@ -1,0 +1,17 @@
+User Stories:
+
+Users should see Gold GameObjects that drop (Est. 30 minutes) (Completed)
+When a Gold GameObject vertically drops on a Player or Monster, the User should see it die (Est. 30 minutes) (Completed)
+Users should be able to pick up smashed Gold GameObjects for points (Est. 30 minutes) (Completed)
+Users should see Monsters respawn some time after death (Est. 30 minutes) (Completed)
+Users should see various bug fixes (or not see various bugs) (Est. 4 hours) (Completed)
+
+Hours:
+
+Estimated: 6 hours
+
+Adam Gastineau: 3
+Zachary Schafer: 2
+Armando Luja Salmeron: 4
+
+Actual: 9 hours

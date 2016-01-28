@@ -1,0 +1,17 @@
+User Stories:
+
+Users should see two different types of monsters moving on the level map in a semi-logical manner (Est. 4 hours) (Completed)
+Users should be able to press spacebar and kill monsters (Est. 1 hour) (Completed)
+Users should see the Player die if it collides with a monster (Est. 1 hour) (Completed)
+Users should be able to pause the game by pressing "P" (Est. 10 minutes) (Completed)
+Users should see various bug fixes (or not see various bugs) (Est. 2 hours) (Completed)
+
+Hours:
+
+Estimated: 8.17 hours
+
+Adam Gastineau: 5
+Zachary Schafer: 2.5
+Armando Luja Salmeron: 5
+
+Actual: 12.5 hours
